@@ -1,1 +1,4 @@
-This is teh second Repo
+This is the second Repo
+"Slugs (as a group) are important to forest ecology, 
+so slugs (as individuals) are something you must be careful 
+not to step on."
